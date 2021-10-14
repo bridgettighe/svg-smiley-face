@@ -18,7 +18,7 @@
 .right-eyebrow {
   transform: rotate(100deg);
   transform-origin: 156px 82px;
-  transition: all .5s ease-in-out;
+  transition: all .5s linear;
 }
 
 .smiley:hover .left-eyebrow {
